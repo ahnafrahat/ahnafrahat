@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahnafrahat
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently SwiftUI.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahnaf-rahat-761956a0/)
 
 <!---
