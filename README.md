@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahnafrahat
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently working with hypercasual games.
+- 🌱 I’m currently working as a software developer.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahnaf-rahat-761956a0/)
 
 <!---
